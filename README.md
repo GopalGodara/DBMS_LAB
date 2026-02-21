@@ -1,4 +1,4 @@
-# DBMS Lab MySQL Exercises Solutions
+# MySQL Lab Exercises – DBMS Course Solutions
 ## Student Details
 - **Name:** Gopal Godara
 - **Section:** 2CSE8
