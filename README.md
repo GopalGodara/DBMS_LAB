@@ -7,11 +7,11 @@
 
 ## Overview
 This repository provides solutions for MySQL lab exercises in the DBMS course. It covers:
--- Table creation and schema design
--- Data manipulation (INSERT, UPDATE, DELETE)
--- SQL queries, joins, and aggregations
--- Transactions and data consistency
--- Backup and recovery operations 
+- Table creation and schema design
+- Data manipulation (INSERT, UPDATE, DELETE)
+- SQL queries, joins, and aggregations
+- Transactions and data consistency
+- Backup and recovery operations 
 These exercises are designed to give hands-on practice and strengthen understanding of MySql and relational database concepts.
 
 ## Course Outcomes
